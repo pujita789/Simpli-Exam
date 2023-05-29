@@ -1,0 +1,47 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-image: url(/images/exam-bg\ .jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+h1{
+  font-family: "Poppins", italy;
+  position:relative;
+  top:50%;
+left:40%;
+}
+h2{
+  font-family: "Poppins", cursive;
+  position:relative;
+  top:50%;
+left:25%;
+}
+p{
+  font-family: "Poppins", italy;
+  position:relative;
+  top:50%;
+left:30%;
+}
+.sign {  
+  background: #e1a014;  
+  border: #fb790f;
+  font-family: "Poppins", cursive;
+  position:relative; 
+  justify-content: center;
+  padding: 12px;
+  box-shadow: inset;
+  top:50%;
+  left:50%; 
+}  
+.sign:hover {  
+  background: #fa7a11;  
+  border: #eb7a10;  
+}  
+
